@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs my whole life<br>📚 Currently studying Software Development<br>Hobbies:<br>👟Running<br>🏋️Gym<br>💻Coding</p>
+<p align="left">✨ Creating bugs my whole life<br>📚 Currently studying Software Development</p>
+
+<!-- <br>Hobbies:<br>👟Running<br>🏋️Gym<br>💻Coding -->
 
 ###
 
