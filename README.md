@@ -2,7 +2,14 @@
 
 ###
 
-<div align="right">
+<div align="left">
+  <img src="https://raw.githubusercontent.com/O-LJ/O-LJ/stats-output/stats.svg" height="100" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/O-LJ/O-LJ/languages-output/languages.svg" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
