@@ -2,6 +2,11 @@
 
 ###
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kelvinmazeika&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+
+</div>
 <p align="left">My skills:</p>
 
 ###
